@@ -1,0 +1,5 @@
+adduser newuser
+adduser -m newuser
+passwd newuser
+usermod -aG sudo newuser
+chsh -s /usr/bin/bash newuser
