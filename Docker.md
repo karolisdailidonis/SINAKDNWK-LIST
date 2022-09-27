@@ -1,5 +1,11 @@
 https://docs.docker.com/engine/
 
+Build container ( In folder with Dockerfile )
+
+``
+docker build -t <containername> .
+``
+
 Stop container
 
 ``
