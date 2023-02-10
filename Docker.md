@@ -23,6 +23,11 @@ Enter container bash
 ``
 docker exec -it <mycontainer> bash
 ``
-  
+
+Enter container bash
+
+``
+docker image prune -f
+``
  
   
